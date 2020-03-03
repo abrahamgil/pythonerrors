@@ -1,5 +1,4 @@
-print(1)
-int(9)
-int 9
-print(2)
-print 3
+a = 1
+b = "2"
+print(int(2.5)
+print(a + b)
